@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Horta da Fatec Zona Sul",
+    "details": [
+      {
+        "label": "Endereço",
+        "value": "Rua Frederico Grotte, 322 - Jardim São Luís, São Paulo - SP, 05818-270"
+      },
+      {
+        "label": "Horário",
+        "value": "09:00 - 18:00"
+      }
+    ],
+    "calendar": [
+      {
+        "date": "14/09/2022",
+        "text": "Limpeza"
+      }
+    ],
+    "coords": {
+      "latitude": -23.663251596145013,
+      "longitude": -46.729317767018436
+    }
+  },
+  {
+    "title": "Horta do Rei do Kuduro",
+    "details": [
+      {
+        "label": "Endereço",
+        "value": "R. Dr. José Augusto de Souza e Silva, s/n - Jardim Parque Morumbi, São Paulo - SP, 05712-040"
+      },
+      {
+        "label": "Horário",
+        "value": "09:00 - 18:00"
+      }
+    ],
+    "calendar": [
+      {
+        "date": "14/09/2022",
+        "text": "Cantoria dos Oismens Feluaizes"
+      }
+    ],
+    "coords": {
+      "latitude": -23.62176783091104,
+      "longitude": -46.72805889552058
+    }
+  },
+  {
+    "title": "Horta da Fatec São Paulo",
+    "details": [
+      {
+        "label": "Endereço",
+        "value": "Av. Tiradentes, 615 - Bom Retiro, São Paulo - SP, 01124-060"
+      },
+      {
+        "label": "Horário",
+        "value": "09:00 - 18:00"
+      }
+    ],
+    "calendar": [
+      {
+        "date": "14/09/2022",
+        "text": "Limpeza"
+      }
+    ],
+    "coords": {
+      "latitude": -23.52863336599938,
+      "longitude": -46.632627273012346
+    }
+  }
+]

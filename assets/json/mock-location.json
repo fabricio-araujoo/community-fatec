@@ -1,0 +1,111 @@
+[
+  {
+    "description": "Campo Limpo, São Paulo - SP, Brasil",
+    "matched_substrings": [{ "length": 9, "offset": 0 }],
+    "place_id": "ChIJD4qNrPtTzpQRUFJJzRIMiag",
+    "reference": "ChIJD4qNrPtTzpQRUFJJzRIMiag",
+    "structured_formatting": {
+      "main_text": "Campo Limpo",
+      "main_text_matched_substrings": [[{}]],
+      "secondary_text": "São Paulo - SP, Brasil"
+    },
+    "terms": [
+      { "offset": 0, "value": "Campo Limpo" },
+      { "offset": 13, "value": "São Paulo" },
+      { "offset": 25, "value": "SP" },
+      { "offset": 29, "value": "Brasil" }
+    ],
+    "types": ["sublocality_level_1", "sublocality", "political", "geocode"]
+  },
+  {
+    "address_components": [
+      {
+        "long_name": "Campo Limpo",
+        "short_name": "Campo Limpo",
+        "types": [[]]
+      },
+      { "long_name": "São Paulo", "short_name": "São Paulo", "types": [[]] },
+      { "long_name": "São Paulo", "short_name": "SP", "types": [[]] },
+      { "long_name": "Brasil", "short_name": "BR", "types": [[]] },
+      { "long_name": "05775-230", "short_name": "05775-230", "types": [[]] }
+    ],
+    "adr_address": "<span class=\"extended-address\">Campo Limpo</span>, <span class=\"locality\">São Paulo</span> - <span class=\"region\">SP</span>, <span class=\"postal-code\">05775-230</span>, <span class=\"country-name\">Brasil</span>",
+    "formatted_address": "Campo Limpo, São Paulo - SP, 05775-230, Brasil",
+    "geometry": {
+      "location": { "lat": -23.6347959, "lng": -46.75499019999999 },
+      "viewport": { "northeast": [{}], "southwest": [{}] }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Campo Limpo",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRguvgTaEHhNXYfPmD8h_pIO4U2lFcLCcL5xS2zVhjbvp6YHND3XafPrIlg_77lxBx1EVt9HkYZvAPRf1EjSl74Z9LB3lh2r-Q6RVKIxrJeRycjAXGeqYnq7ERlJQKQ6VQ60pyB0eTkMFB-VDGvUd6BFiij6HFI7xEm5IZqOHxUIa8R-",
+        "width": 4032
+      },
+      {
+        "height": 1536,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRjexrcuUgGXVI-UMoFru69nCB7B2omOgMNWknQK394j0IxVJ8qpiiAllsv4R28HNRQtYob4fsBTalu7PJOAvfIY-44e059p-Nh61kBfYFEnLToYKPSdywfTUDLcvu4QUOtx0Sj5oYIBuxYI9BJieIRYCfnL6JZZS3U6NVy0RcdjgEiu",
+        "width": 2560
+      },
+      {
+        "height": 774,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRjdnYlpP22Zlr57Dh9Z4cqBGZ4nYoVbES35FF72uwFnwhzylANEczuvilAFsIJlffncRC8-0nwWtHJlIHVSviNqOh3_l5ffN8HM89V5CIID0QPuaRzk3wV9MwHyOLL6mubc7PLhUE0JA3ruCibU65aQtB2urENpJXLNf1E_35pzJPoc",
+        "width": 1032
+      },
+      {
+        "height": 774,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRjwkYlCt3M275GXNv8pPegPXpqHwPjDMJi0bRaEi0HLnweFWej5qshIBiTFJvHEftOq4vFF-H0KjFG6aiqeUBZqArYNxJhgkn6hxlL34qxrIrlzRpUd0LuvFUTa8rH5lr_zsdTRjkFmaqqt5vLhu5NWzQcVyprsTMFoutYkUidjwnx_",
+        "width": 1032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRifth6r9_VasivllYq5iPZWVDVrL5Lrgqf8AeaQy3fad7Z91VwMn97WKwa5QDwoqi7lKGtYrqAYiVqJxSzaGe5idEvhKQyno8qDU1uAxt1-Fr4qtIt8Zd6OzSow_p-nGvsIxEhsDjLOu-ogE6W9k0aEkx9dQGR2_aEdvtvdRk0I-Ca5",
+        "width": 3000
+      },
+      {
+        "height": 723,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRg2RgZl54_u8IALsMVsNbNDhEV_dnHoZxsOJRtipqv8HnqrXgL26PqydGY6VNVEwW0sZ4emdrs-h3Luiz9TV8ll0W3nJMAafCQQNufSvYyeDbmDZbXggQ6Q3hKpETCuD544BZu83b0FbxEi9e6C3NHh9eLLcXWgL9sLZPjN7VDnqaqH",
+        "width": 1280
+      },
+      {
+        "height": 768,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRh6YOqNj9CaxsADMzshX-n1unHYczWqwEKEUdUMnBv7PmlD4f7wcil8j_2XrY6jGoLdzz9hDCx8y3-FcbHhoz_GWVhoRkjTyQCo1d-WXlnUcm2QCQDA0wTBBfDCK4CM0HF64BuXqKWJub4mchEm1kXpThzaMUGvwb-bC6DhQk6oyyxH",
+        "width": 1280
+      },
+      {
+        "height": 869,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRiP3Ufy9Fyb0Pl815pmqIHNioq8q4bzrcGurVjVscRhFc36Ull8EiyjNnava1ZOQKsKbIOeowvXUJkQDNw9gODNHAO7J331hIGiUpORS6oPhwuq3kyy3Dt5o1I18zAAod0mF77iP3xB7fYBzBs9Nc76yMGfAGaWe8swLMUusvGiclaH",
+        "width": 1158
+      },
+      {
+        "height": 960,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRidoRiu6L1mx6oqtVe8kvm18p2DqaooIAt-B0uAiPy_8DRJWhGd-Qp-8vgDXtEILdh_MbTRcSO3AvjKdRbLrc5z_kOf7LuTU9AUMZcVyrd_Ecw19aMC7t2VUQWpri05_hM60ISA_ZSATG7Wky-inW7XxF-zLRiD1H5sk9WDTyd5iiXO",
+        "width": 1280
+      },
+      {
+        "height": 640,
+        "html_attributions": [[]],
+        "photo_reference": "AcYSjRjpy0Z6Istb9aV-xOXrFkrI1LzcXNG-rKGztsZ5J5SBjqRWwNhf9lYEFi9I6N1lVYSU794GEz_PIRuz3Zta1-Cm8AFLgiOZSSe-Y4ocQrPMuUVl0G3Kn2NVmZKpZjcXwF-RWFtaWeJGgsaix9Ma9WtF0WUthYcHdyp_YNkVtuoChn0Q",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJD4qNrPtTzpQRUFJJzRIMiag",
+    "reference": "ChIJD4qNrPtTzpQRUFJJzRIMiag",
+    "types": ["sublocality_level_1", "sublocality", "political"],
+    "url": "https://maps.google.com/?q=Campo+Limpo,+S%C3%A3o+Paulo+-+SP,+05775-230,+Brasil&ftid=0x94ce53fbac8d8a0f:0xa8890c12cd495250",
+    "utc_offset": -180,
+    "vicinity": "Campo Limpo"
+  }
+]
